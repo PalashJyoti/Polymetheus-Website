@@ -272,13 +272,11 @@ const PolymetheusPlatform = () => {
             <div>
               <h3 className="text-2xl font-bold mb-4 text-cyan-400">The Fire of Knowledge</h3>
               <p className="text-slate-300 text-lg leading-relaxed mb-6">
-                Named after the fusion of "Polymath" and "Prometheus," we embody the spirit of bringing 
-                the fire of knowledge and technology to solve humanity's most complex challenges.
+                Named after the fusion of &quot;Polymath&quot; and &quot;Prometheus,&quot; we embody the spirit of bringing 
+                the fire of knowledge and technology to solve humanity&apos;s most complex challenges.
               </p>
               <p className="text-slate-300 text-lg leading-relaxed mb-6">
-                We're not just another tech consultancy. We're innovators, problem-solvers, and digital 
-                architects who believe that the intersection of artificial intelligence and human creativity 
-                holds the key to unprecedented possibilities.
+                We&apos;re not just another tech consultancy. We&apos;re innovators, problem-solvers, and digital architects who believe that the intersection of artificial intelligence and human creativity holds the key to unprecedented possibilities.
               </p>
               <div className="flex items-center gap-4">
                 <div className="w-12 h-1 bg-gradient-to-r from-cyan-400 to-purple-600"></div>
@@ -352,7 +350,7 @@ const PolymetheusPlatform = () => {
             </h2>
             <div className="w-24 h-1 bg-gradient-to-r from-cyan-400 to-purple-600 mx-auto mb-8"></div>
             <p className="text-xl text-slate-300 max-w-3xl mx-auto">
-              Showcasing innovative solutions that push the boundaries of what's possible
+              Showcasing innovative solutions that push the boundaries of what&apos;s possible
             </p>
           </div>
 
@@ -421,7 +419,7 @@ const PolymetheusPlatform = () => {
             </h2>
             <div className="w-24 h-1 bg-gradient-to-r from-cyan-400 to-purple-600 mx-auto mb-8"></div>
             <p className="text-xl text-slate-300 max-w-3xl mx-auto">
-              Ready to transform your ideas into intelligent solutions? Let's start the conversation.
+              Ready to transform your ideas into intelligent solutions? Let&apos;s start the conversation.
             </p>
           </div>
 
@@ -469,7 +467,7 @@ const PolymetheusPlatform = () => {
                   ></textarea>
                 </div>
                 <button
-                  onClick={() => alert('Message sent! We\'ll get back to you soon.')}
+                  onClick={() => alert('Message sent! We&apos;ll get back to you soon.')}
                   className="w-full px-6 py-3 bg-gradient-to-r from-cyan-500 to-purple-600 rounded-lg font-semibold text-white hover:from-cyan-600 hover:to-purple-700 transition-all duration-300 flex items-center justify-center gap-2"
                 >
                   Send Message <Send size={16} />
