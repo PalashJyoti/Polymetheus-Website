@@ -2,7 +2,7 @@
 import React, { useState, useEffect } from 'react';
 import { Menu, X, ChevronRight, Mail, Github, Linkedin, Code, Brain, Eye, Database, Users, ArrowRight, Send } from 'lucide-react';
 
-const PolymetheusPlatform = () => {
+const Home = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const [scrollY, setScrollY] = useState(0);
   const [activeSection, setActiveSection] = useState('home');
@@ -499,4 +499,4 @@ const PolymetheusPlatform = () => {
   );
 };
 
-export default PolymetheusPlatform;
+export default Home;
