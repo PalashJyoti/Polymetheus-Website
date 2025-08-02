@@ -15,12 +15,6 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Polymetheus",
   description: "Polymetheus is a platform for building and deploying AI applications with ease.",
-  icons: {
-    icon: '/favicon.ico',
-    shortcut: '/favicon-96x96.png',
-    apple: '/apple-touch-icon.png',
-  },
-  manifest: '/site.webmanifest',
 };
 
 export default function RootLayout({
